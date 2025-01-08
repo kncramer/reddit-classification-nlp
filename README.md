@@ -6,7 +6,7 @@ Fantasy and Science Fiction are often mentioned in the same breath, so I want to
 
 By seeing how well I can train a model to differentiate between posts taken from the [fantasy](https://www.reddit.com/r/Fantasy/) and [scifi](https://www.reddit.com/r/scifi/) subreddits on [Reddit.com](https://www.reddit.com/), I should get an idea of how much overlap is currently between the two genres. 
 
-|Feature|Type|Discription|
+|Feature|Type|Description|
 |---|---|---|
 |**title**|*string*|Title of the subreddit post|
 |**post**|*string*|Text content of the subreddit post|
